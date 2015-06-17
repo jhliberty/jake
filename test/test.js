@@ -5,3 +5,4 @@ describe('Jake', function() {
   it('should return a function', function() {
     expect(Jake).to.be.a('function');
   });
+});
