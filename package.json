@@ -39,5 +39,14 @@
   "dependencies": {
     "resolve": "^1.1.6",
     "soil-cli": "^1.2.5"
+  },
+  "devDependencies": {
+    "babel": "^5.5.8",
+    "chai": "^2.3.0",
+    "dmn": "^1.0.10",
+    "doctoc": "^0.13.0",
+    "eslint": "^0.22.1",
+    "ghooks": "^0.3.2",
+    "mocha": "^2.2.5"
   }
 }
